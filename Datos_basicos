@@ -1,0 +1,20 @@
+//TIPOS DE DATOS BÁSICOS DE C++
+
+#include<iostream>
+
+using namespace std;
+
+int main(){
+	int entero = 33;  // numeros enteros
+	float flotante = 32.5;  //numeros decimales
+	double mayor = 3.141592653;   //numeros extensos
+	char letra = 'a';  //porner texto
+	
+	
+	cout<<letra,	
+	cout<<entero,	
+	cout<<mayor;
+	
+	
+	return 0;
+}
