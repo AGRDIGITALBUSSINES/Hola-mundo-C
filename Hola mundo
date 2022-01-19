@@ -1,0 +1,17 @@
+//PRIMER PROGRAMA EN C++
+
+#include<iostream>		//entrada y salida de datos
+
+using namespace std;	//std::cout<<...
+
+
+int main (){				//funcion
+
+
+	cout<<"HOLA MUNDO :D";  //espacio entre lineas \n
+
+
+
+
+	return 0;
+}
